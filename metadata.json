@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Advanced Phishing Website Detection System using SVM & LightGBM algorithms. Features real-time URL analysis, feature extraction, and comparative model performance visualization.",
+  "requestFramePermissions": []
+}
